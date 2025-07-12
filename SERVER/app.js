@@ -22,6 +22,7 @@ app.listen(PORT, async ()=>{
 
 /*
 const serverStart = async () => {
+    // these are just a distraction don't mind anyone
     try{
         console.log('1')
         await connectMongoDB();
